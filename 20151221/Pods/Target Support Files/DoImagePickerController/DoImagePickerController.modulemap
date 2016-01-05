@@ -1,0 +1,6 @@
+framework module DoImagePickerController {
+  umbrella header "DoImagePickerController-umbrella.h"
+
+  export *
+  module * { export * }
+}
